@@ -1,0 +1,17 @@
+# Carpetas automáticas
+__pycache__/
+.ipynb_checkpoints/
+
+# Archivos temporales
+*.pyc
+*.pyo
+*.log
+*.pkl
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales (si se usan)
+env/
+venv/
