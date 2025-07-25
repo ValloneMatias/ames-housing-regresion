@@ -51,13 +51,13 @@ Este proyecto aplica algoritmos de **regresión supervisada** para predecir el p
 
 ### Predicción vs. Real (Random Forest)
 
-<img src="images/prediccion_vs_real_rf.png" width="500"/>
+<img src="images/precio_real_vs_predicho_rf.png" width="500"/>
 
 ---
 
 ### Distribución de errores (Random Forest)
 
-<img src="images/errores_distribucion_rf.png" width="500"/>
+<img src="images/distribucion_errores_rf.png" width="500"/>
 
 ---
 
